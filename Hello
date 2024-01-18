@@ -1,0 +1,7 @@
+Hello
+
+its my capstone project that i done on my university to acquire my master degree
+
+on this project i do prediction for smartphone sales with lightgbm, random forest and knn clusrtering
+
+i does pre-processing, data normalization, training and testing 
